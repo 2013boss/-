@@ -7,4 +7,4 @@
 English version：
 The source code (new.py or code.py) can only be run using python.
 
-You can download directly:setup_explorer2.0.exe
+You can download directly:setup_explorer2.0.exe to install it.
